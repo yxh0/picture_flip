@@ -1,6 +1,6 @@
 # Flip the picture horizontally
 
-[中文版点击这里](Picture flipCN.md)
+[中文版点击这里](Picture%20flipCN.md)
 
 - Mirror image horizontally
 - Need `ffmpeg` environment
